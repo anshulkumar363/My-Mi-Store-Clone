@@ -1,0 +1,22 @@
+.heading
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   
+}
+.heading div
+{
+    margin-top: 23px;
+   
+    background-color: rgb(63, 63, 63);
+    height:1px;
+    width: 30vw
+   
+}
+.heading p
+{
+    padding: 0 23px;
+    color: rgb(63, 63, 63);
+    font-size: 2vmax;
+}
